@@ -12,10 +12,10 @@ A sales forecast is a projection of future sales revenue, often based on histori
   Long-term Forecasts: Extend beyond three years and are used for major strategic decisions, such as entering new markets or making significant capital investments.
 -> Methods of Sales Forecasting
   Qualitative Methods:
-        Expert Opinion: Involves gathering insights from industry experts or company executives who have deep market knowledge.
+  Expert Opinion: Involves gathering insights from industry experts or company executives who have deep market knowledge.
   Delphi Method: A structured communication technique where experts answer questionnaires in multiple rounds, with the aim of reaching a consensus forecast.
-        Market Research: Surveys, focus groups, and other market research methods are used to gauge customer interest and predict future sales.
-        Quantitative Methods:
+  Market Research: Surveys, focus groups, and other market research methods are used to gauge customer interest and predict future sales.
+  Quantitative Methods:
   Time Series Analysis: Uses historical sales data to predict future sales by identifying trends, seasonal patterns, and cyclical behaviors.
   Causal Models: These models consider various factors (like economic indicators, marketing spend, and competition) that might influence sales.
   Regression Analysis: A statistical method to forecast sales by modeling the relationship between sales and one or more independent variables (e.g., price,       
