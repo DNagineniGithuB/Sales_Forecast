@@ -1,1 +1,1 @@
-# project1
+A sales forecast is a projection of future sales revenue, often based on historical data, market trends, and various other influencing factors. It’s a critical component in business planning, helping companies make informed decisions about production, budgeting, marketing strategies, and workforce management. 
